@@ -4,7 +4,7 @@ This readme can be found in spanish with this name: README_ES.md
 
 This is the link to the official documentation page for the library:
 
-[Oficial documentation](https://tradingbotalma.readthedocs.io/)
+[Official documentation](https://tradingbotalma.readthedocs.io/)
 
 ## Introduction
 
